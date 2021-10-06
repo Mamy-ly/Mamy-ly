@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mamy-ly
-- 👀 I’m interested in ...coding
+- 👀 I’m interested in ...developpement d'application web et mobile
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...lymamy62@gmail.com 
